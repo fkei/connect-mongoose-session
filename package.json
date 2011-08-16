@@ -1,0 +1,27 @@
+{
+    "name": "connect-mongoose",
+    "version": "0.4.8",
+    "description": "mongodb session store for connect and mongoose",
+    "keyword": "session",
+    "homepage": "",
+    "author": {
+        "name": "Kei Funagayama",
+        "email": "kei.topaz@gmail.com",
+        "url": ""
+    },
+    "dependencies": {
+        "mongoose": ">=1.8.1",
+        "connect": ">=1.4.5",
+        "mongodb": ">=0.9.4-5"
+    },
+    "main": "./index.js",
+    "engines": {"node" : ">=0.4.0"},
+    "licenses": [{
+        "type": "The MIT License",
+        "url": "./MIT-LICENSE.txt"
+    },{
+        "type": "GNU GENERAL PUBLIC LICENSE",
+        "url": "./GPLv2-LICENSE.txt"
+        
+    }]
+}
