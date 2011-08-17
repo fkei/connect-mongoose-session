@@ -1,5 +1,5 @@
 {
-    "name": "connect-mongoose",
+    "name": "connect-mongoose-session",
     "version": "0.4.8",
     "description": "mongodb session store for connect and mongoose",
     "keyword": "session",
