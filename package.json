@@ -3,7 +3,7 @@
     "version": "0.4.8",
     "description": "mongodb session store for connect and mongoose",
     "keyword": "session",
-    "homepage": "",
+    "homepage": "https://github.com/fkei/connect-mongoose-session",
     "author": {
         "name": "Kei Funagayama",
         "email": "kei.topaz@gmail.com",
