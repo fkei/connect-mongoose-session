@@ -11,20 +11,20 @@ via npm:
     ## Function
 
 This module covers the session store feature.
- * session#`set`
- * session#`get`
- * session#`destroy`
- * session#`count`
- * session#`length`
- * session#`clear`
+* session#`set`
+* session#`get`
+* session#`destroy`
+* session#`count`
+* session#`length`
+* session#`clear`
 
- * Lifetimes can be specified any time
- * `express` supported.
- * Support the `replica set` of MongoDB
+* Lifetimes can be specified any time
+* `express` supported.
+* Support the `replica set` of MongoDB
 
     ## Options
 
-lifecheck - Lifetime (ms) [-1 off]
+      lifecheck - Lifetime (ms) [-1 off]
 
 ## Example
 
