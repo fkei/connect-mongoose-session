@@ -8,7 +8,7 @@ via npm:
 
     $ npm install connect-mongoose-session
 
-    ## Function
+## Function
 
 This module covers the session store feature.
 
