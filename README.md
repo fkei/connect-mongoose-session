@@ -104,4 +104,4 @@ This module covers the session store feature.
 
 ## Test
 
-$ make test
+    $ make test
