@@ -11,6 +11,7 @@ via npm:
     ## Function
 
 This module covers the session store feature.
+
 * session#`set`
 * session#`get`
 * session#`destroy`
